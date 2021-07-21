@@ -1,0 +1,13 @@
+{
+    "name": "toanhung94mt3/payment-package",
+    "description": "payment package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hung Toan",
+            "email": "toanhung94mt3@gmail.com"
+        }
+    ],
+    "require": {}
+}
