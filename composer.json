@@ -9,5 +9,10 @@
             "email": "toanhung94mt3@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ToanHung94mt3\\PaymentPackage\\": "src"
+        }
+    }
 }
