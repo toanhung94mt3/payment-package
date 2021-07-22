@@ -1,5 +1,5 @@
 {
-    "name": "toanhung94mt3/payment-package",
+    "name": "toanhung94mt3/paymentpackage",
     "description": "payment package",
     "type": "library",
     "license": "MIT",
@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "ToanHung94mt3\\PaymentPackage\\PaymentPackageServiceProvider"
+                "ToanHung94mt3\\PaymentPackage\\PaymentProvider"
             ]
         }
     },
